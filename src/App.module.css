@@ -1,0 +1,30 @@
+.head {
+
+}
+
+.body {
+
+}
+
+.footer {
+
+}
+
+.app {
+    text-align: center;
+    background-color: azure;
+}
+
+.sq {
+    height: 50px;
+    width: 50px;
+}
+
+.img {
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    margin: 25px;
+    border-radius: 25px;
+
+}
