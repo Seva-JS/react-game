@@ -1,23 +1,48 @@
 .head {
+    height: 50px;
 
 }
 
 .body {
+    height: 300px;
 
 }
 
 .footer {
 
+
 }
 
 .app {
+
+    height: 540px;
+    width: 400px;
+    align-content: center;
+    border-style: solid;
+    border-radius: 25px;
     text-align: center;
     background-color: azure;
+    margin: auto;
+    margin-top: 45px;
+
+
 }
 
 .sq {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
     height: 50px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
     width: 50px;
+    cursor: pointer;
+
 }
 
 .img {
@@ -26,5 +51,44 @@
     text-align: center;
     margin: 25px;
     border-radius: 25px;
+    border-style: solid;
 
+
+}
+
+.game {
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 4em;
+}
+
+.button {
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.status {
+    border-style: solid;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 160px;
+    margin: auto;
+    margin-left: 30px;
+
+}
+.full{
+    width: 50px;
+    cursor: pointer;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-radius: 25px;
+}
+.audio{
+    width: 250px;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-left: -25px;
 }
