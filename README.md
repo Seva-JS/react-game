@@ -1,7 +1,7 @@
 # react-game
 1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/react-game.md
 2. Screenshot:
-   ![](https://prnt.sc/10cbeao)
+   https://prnt.sc/10cbeao
 
 4. Done 03.03.2021 / deadline 03.05.2021
 5. Score: 35-40 / 100
