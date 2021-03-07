@@ -1,4 +1,7 @@
-ДЛЯ запуска :-npm start
+ДЛЯ запуска :
+1)clone repo
+2)npm install
+3) -npm start
 # react-game
 1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/react-game.md
 2. Screenshot:
