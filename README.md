@@ -1,2 +1,5 @@
 # react-game
--npm start to launch the app.
+To launch the app:
+1)clone repo 
+2)npm install 
+3) -npm start
